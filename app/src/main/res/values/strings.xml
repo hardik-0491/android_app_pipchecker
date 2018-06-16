@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">PiP Checker</string>
+    <string name="pip_activity_title">PiP Window</string>
+    <string name="pip_text">PiP Window</string>
+    <string name="pip_hint_text">Press home button to go in PiP</string>
+    <string name="pip_error">Your ROM does not support Picture-in-Picture(PiP) Mode</string>
+    <string name="pip_success">Your ROM supports Picture-in-Picture(PiP) Mode</string>
+    <string name="pip_error_reason">You need android version Oreo(8) or higher</string>
+    <string name="pip_btn_txt">Open PiP Window</string>
+    <string name="ad_id">ca-app-pub-4377347893636901~5130689400</string>
+    <string name="activity_main_ad_unit_id">ca-app-pub-4377347893636901/3502747117</string>
+    <string name="activity_pip_ad_unit_id">ca-app-pub-4377347893636901/3452035408</string>
+    <string name="test_ad_id">ca-app-pub-3940256099942544~3347511713</string>
+    <string name="test_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="pip_exception">Can not enter in PiP mode, check logcat for more info</string>
+</resources>
