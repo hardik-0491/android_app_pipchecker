@@ -1,8 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="ad_id">ca-app-pub-4377347893636901~5130689400</string>
-    <string name="activity_main_ad_unit_id">ca-app-pub-4377347893636901/3502747117</string>
-    <string name="activity_pip_ad_unit_id">ca-app-pub-4377347893636901/3452035408</string>
-    <string name="test_ad_id">ca-app-pub-3940256099942544~3347511713</string>
-    <string name="test_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+
 </resources>
